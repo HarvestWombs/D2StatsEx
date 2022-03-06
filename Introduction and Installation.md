@@ -5,7 +5,7 @@
 By: [HarvestWombs](https://d2mods.info/forum/memberlist.php?mode=viewprofile&u=40061)
 
 
-**Introduction
+**Introduction**
 
 D2StatsEx allows you to draw Strings, Values, Boxes, or Dc6 frames on many different panels, with the optional feature to only make them visible on mouse over (popups).
 
@@ -13,7 +13,7 @@ This version will allow you to draw on the following panels.
 
 (Stats, Inventory, Quest, SkillTree, Merc, Cube, Help Menu, Waypoints, ShortSkill popup)
 
-**Installation:
+**Installation:**
 
 1. Add this line to your D2mod.ini
 
@@ -31,7 +31,7 @@ This version will allow you to draw on the following panels.
 4. Copy the D2StatsEx.txt file to your data/global/excel/ folder.
 
 
-**Uninstall:
+**Uninstall:**
 
 To remove the plugin you just have to delete the entries you made
 
