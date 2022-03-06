@@ -1,0 +1,8 @@
+*Name	HcIDx	Enabled	Panel	MainFunc	SubFunc	Condition	Class	MouseLeft	MouseRight	MouseTop	MouseBottom	StringID	StatID	StatCalc	Font	StringColor	StringLeft	StringRight	StringY	Anchor	BoxLeft	BoxRight	BoxTop	BoxBottom	BoxStyle	BorderColor	GFXFile	GFXFrame	DrawMode	eol
+Examples:	0	1		Build																										0
+Conditional dc6 drawing	1	1	Char	Static	Image	(stat(statpts.accr) > 0) ? 1 : 0															128		542				StatsGlowLeft	1	1	0
+Conditional dc6 drawing 2	2	1	Char	Static	Image	(stat(statpts.accr) > 0) ? 1 : 0															280		542				StatsGlowRight	1	1	0
+Drawing Stashgold on Inventory	3	1	Inve	Static	Value								goldbank		1	0	554	600	709	Left										0
+Drawing a Stroke box on Help	4	1	Help	Static	Box																256	768	640	384	Stroke	56,255,248,255			1	0
+Drawing a String on Help	5	1	Help	Static	String							Strhelp1			1	0	256	768	600	Center										0
+Drawing a String on Help 2	6	1	Help	Static	String							Harddeathmessage			1	0	256	768	575	Center										0
